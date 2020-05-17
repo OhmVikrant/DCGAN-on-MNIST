@@ -1,2 +1,2 @@
 # DCGAN-on-MNIST
-Deep Convolutional Generative Adversarila Network on MNIST Dataset
+Deep Convolutional Generative Adversarial Network on MNIST Dataset
